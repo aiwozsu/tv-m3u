@@ -1,0 +1,63 @@
+{
+ "sites": [
+  {
+   "key": "tyyszy",
+   "name": "天涯[直连1080]",
+   "type": 1,
+   "api": "http://tyyszy.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "changeable": 1
+  },
+  {
+   "key": "jszy",
+   "name": "极速[直连1080]",
+   "type": 1,
+   "api": "https://jszyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "changeable": 1
+  },
+  {
+   "key": "ffzy",
+   "name": "非凡[直连1080]",
+   "type": 1,
+   "api": "http://ffzy.tv/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "changeable": 1
+  },
+  {
+   "key": "bdzy",
+   "name": "百度[直连1080]",
+   "type": 1,
+   "api": "https://api.apibdzy.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "changeable": 1
+  }
+ ],
+ "parses": [
+  {
+   "name": "Json聚合",
+   "type": 3,
+   "url": "Demo"
+  }
+ ],
+ "flags": [
+  "youku",
+  "qq",
+  "iqiyi",
+  "qiyi",
+  "奇艺",
+  "爱奇艺",
+  "mgtv",
+  "芒果",
+  "bilibili",
+  "哔哩"
+ ]
+}
