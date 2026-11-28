@@ -12,7 +12,7 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02O
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视4K" group-title="4K超高清",浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-# ===== 央视（14） =====
+# ===== 央视（23） =====
 #EXTINF:-1 tvg-name="CCTV-12社会与法" group-title="央视",CCTV-12社会与法
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-15音乐" group-title="央视",CCTV-15音乐
@@ -41,6 +41,24 @@ https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-12社会与法(备用)" group-title="央视",CCTV-12社会与法(备用)
 http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" group-title="央视",CCTV5+体育赛事
+http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+体育赛事(备用)" group-title="央视",CCTV5+体育赛事(备用)
+http://112.27.5.218:9901/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV风云足球" group-title="央视",CCTV风云足球
+http://173.208.212.130:8181/720p/fyzq.m3u8
+#EXTINF:-1 tvg-name="CCTV风云音乐" group-title="央视",CCTV风云音乐
+http://173.208.212.130:8181/720p/fyyy.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" group-title="央视",CCTV怀旧剧场
+http://173.208.212.130:8181/720p/hjjc.m3u8
+#EXTINF:-1 tvg-name="CCTV世界地理" group-title="央视",CCTV世界地理
+http://173.208.212.130:8181/720p/sjdl.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚" group-title="央视",CCTV女性时尚
+http://173.208.212.130:8181/720p/nxss.m3u8
+#EXTINF:-1 tvg-name="CCTV发现之旅" group-title="央视",CCTV发现之旅
+http://173.208.212.130:8181/720p/fxzl.m3u8
+#EXTINF:-1 tvg-name="CCTV兵器科技" group-title="央视",CCTV兵器科技
+http://173.208.212.130:8181/720p/gfjs.m3u8
 # ===== 卫视（22） =====
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://107.150.60.122/live/ssws.m3u8
@@ -212,8 +230,6 @@ http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b3
 #EXTINF:-1 tvg-name="烟台影视频道" group-title="地方频道",烟台影视频道
 http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 #EXTINF:-1 tvg-name="烟台新闻综合" group-title="地方频道",烟台新闻综合
-http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
-#EXTINF:-1 tvg-name="烟台经济科技" group-title="地方频道",烟台经济科技
 http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
 #EXTINF:-1 tvg-name="焦作公共频道" group-title="地方频道",焦作公共频道
 http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
@@ -329,7 +345,7 @@ http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba
 #EXTINF:-1 tvg-name="地理中国" group-title="纪录",地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 #EXTINF:-1 tvg-name="航拍中国第二季" group-title="纪录",航拍中国第二季
-http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3c12366dd3111550328ae6
 # ===== 体育（2） =====
 #EXTINF:-1 tvg-name="精品体育" group-title="体育",精品体育
 https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
